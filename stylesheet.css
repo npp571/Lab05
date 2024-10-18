@@ -1,0 +1,90 @@
+.box{
+    background-color: blue;
+    height: 200px;
+    width: 300px;
+    margin-bottom: 10px;
+}
+
+.responsive-box{
+    background-color: blueviolet;
+    width: 50%;
+    height: 50%;
+}
+
+.padded-text{
+    padding: 20px;
+   
+}
+
+.custom-padding{
+    background-color: aqua;
+    height: 50%;
+    width: 50%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.border-box{
+    border-style: solid;
+    border-width: 2px;
+    border-color: black;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+
+.rounded-border{
+    border-color: red;
+    border-style: dotted;
+    border-width: 3px;
+    border-radius: 15px;
+    padding: 10px;
+}
+
+.margin-text{
+    margin: 30px;
+}
+
+.custom-margin{
+    background-color: blueviolet;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 40px;
+    margin-right: 20px;
+    height: 50px;
+}
+
+.inline-element{
+    background-color: lightblue;
+    display: inline;
+}
+
+.block-element{
+    display: block;
+    background-color: lightcoral;
+    margin: 20px;
+}
+
+.inline-block-element{
+    display: inline-block;
+    background-color: lightblue;
+    height: 60px;
+    width: 300px;
+}
+
+.hidden-element{
+    display: none;
+}
+
+.visiblie-element{
+    visibility: visible;
+}
+
+.invisible-element{
+    visibility: hidden;
+}
+
+.transparent-box{
+    background-color: rgba(0, 0, 255, 0.5);
+}
